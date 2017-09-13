@@ -1,6 +1,6 @@
 {
   "name": "v-bem",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bem from vue.js custom dirrectives",
   "main": "index.js",
   "author": "gserrg <gor08serg@ya.ru>",
