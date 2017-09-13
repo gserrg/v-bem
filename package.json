@@ -1,7 +1,7 @@
 {
   "name": "v-bem",
   "version": "1.0.0",
-  "description": "Bem from vue custom dirrectives",
+  "description": "Bem from vue.js custom dirrectives",
   "main": "index.js",
   "author": "gserrg <gor08serg@ya.ru>",
   "license": "MIT",
@@ -25,5 +25,12 @@
     "block",
     "element",
     "modifier"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gserrg/v-bem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gserrg/v-bem/issues"
+  }
 }
