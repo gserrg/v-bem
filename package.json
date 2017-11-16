@@ -2,9 +2,13 @@
   "name": "v-bem",
   "version": "1.0.1",
   "description": "Bem from vue.js custom dirrectives",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "gserrg <gor08serg@ya.ru>",
   "license": "MIT",
+  "scripts": {
+    "compile": "babel -d dist index.js",
+    "prepublish": "npm run compile"
+  },
   "dependencies": {
     "b_": "^1.3.3"
   },
